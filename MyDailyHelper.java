@@ -19,6 +19,10 @@ public class MyDailyHelper {
 			System.out.println("play happy me good");
 		}
 		
+		System.out.println("is it the (w)eekday or wee(k)end");
+		
+		
+		
 	}
 
 }
